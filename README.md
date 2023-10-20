@@ -8,4 +8,4 @@ then select **"Create a new repository"**
 
 Then you will have a Github repo to use with [this ZMK keymap GUI tool](https://nickcoutsos.github.io/keymap-editor/).
 
-For a more in depth guide pleas see our [guide](https://www.boardsource.xyz/docs/guides-zmkgui) on using only GUIs to configure your ZMK keyboard.
+For a more in depth guide please see our [guide](https://www.boardsource.xyz/docs/guides-zmkgui) on using only GUIs to configure your ZMK keyboard.
