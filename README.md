@@ -5,7 +5,7 @@
 2. Click the big green button above that says **"Use this template"**
 then select **"Create a new repository"**.
 
-![use template button](https://images.boardsource.xyz/template%20how%20to.png)
+![use template button](https://images.boardsource.xyz/Screenshot%202023-10-20%20115310.png)
 
 After that you will have a copy of this repository in your Github account,
 to use with [this ZMK keymap GUI tool](https://nickcoutsos.github.io/keymap-editor/).
